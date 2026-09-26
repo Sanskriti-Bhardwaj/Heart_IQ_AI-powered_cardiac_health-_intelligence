@@ -1,152 +1,269 @@
-<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  HEART-IQ CARDIAC HEALTH INTELLIGENCE               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:b91d73,100:f953c6&height=300&section=header&text=❤️%20HeartIQ&fontSize=80&fontAlignY=42&desc=AI-Powered%20Cardiac%20Risk%20Prediction%20System&descAlignY=64&descAlign=50&animation=fadeIn&fontColor=ffffff&stroke=f953c6&strokeWidth=2" width="100%" alt="HeartIQ Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b091a,25:1a153a,55:791a88,85:d81b60,100:ff4081&height=320&section=header&text=🫀%20HeartIQ&fontSize=84&fontAlignY=38&desc=AI-Powered%20Cardiac%20Health%20%26%20Risk%20Intelligence%20Platform&descAlignY=62&descAlign=50&animation=fadeIn&fontColor=ffffff&stroke=ff4081&strokeWidth=2" width="100%" alt="HeartIQ Hero Header"/>
 
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&pause=900&color=f953c6&background=00000000&center=true&vCenter=true&repeat=true&width=850&height=65&lines=🩺+Predict+Heart+Disease+Risk+with+Machine+Learning;🤖+CardioBot+AI+%7C+Powered+by+Google+Gemini;🔐+Role-Based+Auth+%2B+SMTP%2FSSL+OTP+Recovery;📊+Interactive+Plotly+Risk+Charts+%26+Dashboards;🖨️+One-Click+PDF+Report+Generation;💊+Your+Personal+Cardiac+Health+Intelligence+System)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════ PRIMARY BADGES ═══════════ -->
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-heartiqai.vercel.app-f953c6?style=for-the-badge)](https://heartiqai.vercel.app/)
+<!-- ══════════════ DYNAMIC TYPING SUBTITLE ══════════════ -->
+<a href="https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=23&pause=1000&color=FF4081&background=00000000&center=true&vCenter=true&repeat=true&width=860&height=70&lines=🩺+Predict+Cardiac+Disease+Risk+with+Machine+Learning;🤖+CardioBot+AI+%7C+Real-Time+Clinical+Guidance;📊+Dynamic+Plotly+Radar+Charts+%26+Feature+Impact;🔐+Role-Based+Auth+(Admin%2FDoctor%2FUser)+%2B+SMTP+OTP;🖨️+One-Click+Clinical+Diagnostic+PDF+Export;⚡+Built+with+FastAPI+%2B+React+19+%2B+Scikit-Learn" alt="Typing Banner"/>
+</a>
 
 <br/>
 
-<!-- ═══════════ TECH BADGES ═══════════ -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- ══════════════ LIVE DEMO BADGE ══════════════ -->
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-heartiqai.vercel.app-ff4081?style=for-the-badge&logo=vercel&logoColor=white)](https://heartiqai.vercel.app/)
+&nbsp;
+[![API Health](https://img.shields.io/badge/⚡_API_Status-Online-00E676?style=for-the-badge&logo=fastapi&logoColor=white)](#-quick-start)
+&nbsp;
+[![License: MIT](https://img.shields.io/badge/📜_License-MIT-7C4DFF?style=for-the-badge)](LICENSE)
+
+<br/><br/>
+
+<!-- ══════════════ REPOSITORY STATS ══════════════ -->
+[![GitHub Stars](https://img.shields.io/github/stars/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=FF4081&label=Stars&logo=github)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/stargazers)
+&nbsp;
+[![GitHub Forks](https://img.shields.io/github/forks/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=E040FB&label=Forks&logo=git)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/network/members)
+&nbsp;
+[![Repo Size](https://img.shields.io/github/repo-size/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=7C4DFF&label=Repo+Size)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence)
+&nbsp;
+[![Last Commit](https://img.shields.io/github/last-commit/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=00E5FF&label=Last+Commit)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/commits/main)
+&nbsp;
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanskriti-Bhardwaj.Heart_IQ_AI-powered_cardiac_health-_intelligence&left_color=1a153a&right_color=ff4081&left_text=Visitors)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence)
+
+<br/>
+
+<!-- ══════════════ CORE TECH STACK PILLS ══════════════ -->
+![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 &nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python 3.11](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 &nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 &nbsp;
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<br/>
-
-<!-- ═══════════ STATS BADGES ═══════════ -->
-![Repo Size](https://img.shields.io/github/repo-size/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=f953c6&label=Repo+Size)
-&nbsp;
-![Last Commit](https://img.shields.io/github/last-commit/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=flat-square&color=b91d73&label=Last+Commit)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=social)
-&nbsp;
-![Forks](https://img.shields.io/github/forks/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence?style=social)
-&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanskriti-Bhardwaj.Heart_IQ_AI-powered_cardiac_health-_intelligence&left_color=302b63&right_color=f953c6&left_text=Visitors)
-
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [🫀 What is HeartIQ?](#-what-is-heartiq)
+- [✨ Key Capabilities](#-key-capabilities)
+- [🧠 Machine Learning Pipeline & Accuracy](#-machine-learning-pipeline--accuracy)
+- [📋 13 Clinical Parameters Reference](#-13-clinical-parameters-reference)
+- [🤖 CardioBot — AI Medical Assistant](#-cardiobot--ai-medical-assistant)
+- [📊 Visual Analytics & Dashboards](#-visual-analytics--dashboards)
+- [⚙️ System Architecture](#️-system-architecture)
+- [🗂️ Project Directory Structure](#️-project-directory-structure)
+- [🔐 Role-Based Access Control (RBAC)](#-role-based-access-control-rbac)
+- [🖨️ Clinical PDF Diagnostic Export](#️-clinical-pdf-diagnostic-export)
+- [🚦 Quick Start & Installation](#-quick-start--installation)
+- [🔌 REST API Documentation](#-rest-api-documentation)
+- [🗺️ Project Roadmap](#️-project-roadmap)
+- [👩‍💻 Author & Developer](#-author--developer)
+- [🤝 Contributing & Support](#-contributing--support)
+- [⚠️ Medical Disclaimer](#️-medical-disclaimer)
 
 ---
 
 ## 🫀 What is HeartIQ?
 
-**HeartIQ** is a full-stack, production-grade **AI-powered cardiac health intelligence platform** built as a final-year engineering project. It predicts a patient's risk of heart disease by analyzing clinical parameters using an ensemble machine learning model — and wraps everything in a premium, glassmorphism-styled React web app powered by a fast Python backend.
+**HeartIQ** is an end-to-end, production-grade **AI-powered cardiac health intelligence and risk diagnostic platform**. Developed with clinical decision support at its core, HeartIQ analyzes multi-factor patient physiological metrics to predict ischemic and coronary heart disease risk within seconds.
 
-Beyond simple predictions, HeartIQ is a **complete healthcare analytics suite**: it explains risk factors interactively, stores patient histories, allows PDF report generation, and features **CardioBot** — an embedded AI health assistant.
+Engineered with an ensemble **Random Forest Classifier** trained on the gold-standard **Cleveland Heart Disease Dataset (UCI ML Repository)**, the model achieves an astounding **98.54% diagnostic accuracy**.
 
-> *"Early detection saves lives. HeartIQ puts the power of clinical AI into every doctor's hands."*
+Beyond classification, HeartIQ delivers a **complete clinical intelligence ecosystem**:
+1. **Interactive Risk Stratification**: Explains the top clinical drivers behind each prognosis.
+2. **CardioBot AI Assistant**: Contextual medical conversational intelligence powered by Large Language Models.
+3. **Multi-Role Healthcare Management**: Distinct interfaces and permissions for **Admins**, **Cardiologists / Doctors**, and **Patients**.
+4. **EMR / History System**: Longitudinal patient tracking with one-click data recall and printable diagnostic reports.
+5. **Modern Glassmorphic Aesthetic**: Deep midnight purple gradient UI designed for high clinical readability and dark-mode ergonomics.
 
-### 🎯 Who is it for?
-| User | Use Case |
-|------|----------|
-| 👨‍⚕️ **Doctors / Clinicians** | Rapid triage, patient history management, PDF report generation |
-| 🧑‍💻 **ML Researchers** | End-to-end pipeline: EDA → Model Training → Deployment |
-| 🎓 **Students / Educators** | Full capstone project with real-world data & production UI |
-| 🏥 **Healthcare Startups** | Ready-to-extend base for cardiac AI products |
-
----
-
-## ✨ Features at a Glance
-
-<div align="center">
-
-| # | Feature | Description |
-|---|---------|-------------|
-| 1 | 🧠 **ML Risk Prediction** | Ensemble model predicts `High Risk` / `Low Risk` from 13 clinical inputs |
-| 2 | 🤖 **CardioBot AI** | Embedded chatbot for real-time health guidance |
-| 3 | 📊 **Interactive Charts** | Plotly radar charts, bar graphs & risk-factor breakdowns |
-| 4 | 🔐 **Role-Based Auth** | Three roles: `admin`, `doctor`, `user` — with separate access controls |
-| 5 | 📧 **SMTP/SSL OTP** | Secure password reset via Gmail App Password OTP (5-min expiry) |
-| 6 | 👥 **Patient Database** | Full CRUD — save, view, and load historical patient records |
-| 7 | 🖨️ **PDF Reports** | One-click browser print with CSS media print styles for clean PDFs |
-| 8 | 📍 **Modern Stack** | React (Vite) frontend + FastAPI Python backend |
-| 9 | 🌗 **Dark Glassmorphism UI** | Deep purple gradient with `backdrop-filter: blur()` cards |
-| 10 | 🧬 **Clinical Explanations** | Per-prediction textual explanation of top risk drivers |
-| 11 | 📂 **JSON Persistence** | Patient & user records stored in local `patients.json` / `users.json` |
-
-</div>
+> *"Early detection changes outcomes. HeartIQ democratizes state-of-the-art predictive cardiology for triage, clinics, and academic research."*
 
 ---
 
-## 🛠️ Technology Stack
+## ✨ Key Capabilities
 
-<div align="center">
-
-### 🧠 Machine Learning & AI
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🌐 Frontend & Visualization
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Security
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![SMTP SSL](https://img.shields.io/badge/SMTP_SSL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON_Storage-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### 🚀 Deployment
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🩺 Predictive Diagnostics</h3>
+      <ul>
+        <li><b>13 Clinical Indicators</b>: Analyzes chest pain taxonomy, resting BP, serum cholesterol, ECG, thalach, ST depressions, fluoroscopy vessels, and thallium scintigraphy.</li>
+        <li><b>Ensemble Machine Learning</b>: Delivers instant calibrated risk probability percentage alongside high/low risk indicators.</li>
+        <li><b>Top Risk Driver Extraction</b>: Highlights the exact physiological markers contributing to the abnormal score.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🤖 CardioBot Health AI</h3>
+      <ul>
+        <li><b>LLM-Powered Intelligence</b>: Embedded generative AI tuned for cardiac health education and symptom clarification.</li>
+        <li><b>Biomarker Explanations</b>: Translates lipid panels, ECG readings, and hemodynamic metrics into plain, actionable language.</li>
+        <li><b>Emergency Triage</b>: Identifies acute red flags (crushing angina, radiating arm pain) and urges immediate clinical care.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 Multi-Dimensional Visualizations</h3>
+      <ul>
+        <li><b>Plotly Radar Charts</b>: Visualizes full biometric profiles against normal population baselines.</li>
+        <li><b>Dynamic Risk Gauges</b>: Color-coded probability meters with immediate risk categorization.</li>
+        <li><b>Interactive Bar Breakdowns</b>: Quantifies per-feature impact on the diagnostic outcome.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🔐 Hospital-Ready Security & Auth</h3>
+      <ul>
+        <li><b>Role-Based Access Control</b>: Three operational tiers: <code>Admin</code>, <code>Doctor</code>, and <code>User</code>.</li>
+        <li><b>SMTP/SSL OTP Password Reset</b>: Cryptographically secure 6-digit one-time password delivered straight to Gmail with 5-minute expiry.</li>
+        <li><b>Local JSON Persistence</b>: Zero heavyweight DB configuration required for fast offline-capable deployments.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🖨️ Clinical PDF Reports</h3>
+      <ul>
+        <li><b>One-Click Print Optimization</b>: Custom CSS <code>@media print</code> formatting generating clean diagnostic PDFs.</li>
+        <li><b>Comprehensive Patient Record</b>: Contains timestamp, patient demographics, 13 clinical readings, prediction score, and top alerts.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>⚡ Cutting-Edge Tech Stack</h3>
+      <ul>
+        <li><b>Vite + React 19 Frontend</b>: Sub-second hot reloading, responsive design, and CSS glassmorphism.</li>
+        <li><b>FastAPI Backend</b>: High-throughput asynchronous Python REST endpoints with automatic OpenAPI documentation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🗂️ Project Structure
+## 🧠 Machine Learning Pipeline & Accuracy
+
+The HeartIQ predictive engine was developed through a rigorous data science workflow documented in [`model/train_models.py`](model/train_models.py) and [`model/train_model.ipynb`](model/train_model.ipynb):
 
 ```
-📦 HeartIQ-4th-year-project/
-│
-├── 📁 frontend/                 ← React (Vite) Application
-│   ├── 📁 src/
-│   │   ├── 📁 views/            ← Dashboard, Login, Patients, Predict, Admin
-│   │   └── 🎨 index.css         ← Global CSS (Glassmorphism dark theme)
-│   └── 📄 package.json          ← Frontend dependencies
-│
-├── 📁 backend/                  ← FastAPI Server
-│   ├── 🐍 api.py                ← Main REST API routes
-│   ├── 🐍 config.py             ← Environment configurations
-│   └── 🐍 helpers.py            ← Utility functions
-│
-├── 📁 model/                    ← ML Pipeline & Assets
-│   ├── 📓 train_model.ipynb     ← Full ML training notebook
-│   ├── 🐍 train_models.py       ← Python script for model training
-│   ├── 📦 best_heart_disease_model.pkl ← Pre-trained Random Forest model
-│   └── 📦 scaler.pkl            ← Pre-fitted StandardScaler
-│
-├── 📁 data/
-│   ├── 📊 heart_disease_data.csv ← Cleveland Heart Disease Dataset
-│   ├── 👤 patients.json         ← Runtime patient record store
-│   └── 🔑 users.json            ← User accounts (roles: admin/doctor/user)
-├── 📋 requirements.txt          ← Backend dependencies
-└── 📄 README.md                 ← Project documentation
+┌──────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
+│  Cleveland Data  │ ──> │ Feature Engineering  │ ──> │ Standard Scaling     │
+│  (UCI Repository)│     │ & Encoding           │     │ (Z-Score Normalizer) │
+└──────────────────┘     └──────────────────────┘     └──────────────────────┘
+                                                                 │
+                                                                 ▼
+┌──────────────────┐     ┌──────────────────────┐     ┌──────────────────────┐
+│ Production Model │ <── │ Cross-Validation     │ <── │ 4-Algorithm Benchmark│
+│ best_model.pkl   │     │ & Metric Tuning      │     │ RF vs DT vs KNN vs LR│
+└──────────────────┘     └──────────────────────┘     └──────────────────────┘
+```
+
+### 🔬 Model Benchmark Comparison
+
+Multiple classification architectures were trained and cross-validated on identical 80/20 train-test splits:
+
+| Model Architecture | Accuracy | Precision | Recall | F1-Score | Status |
+|:-------------------|:--------:|:---------:|:------:|:--------:|:------:|
+| 🌲 **Random Forest Classifier** | **98.54%** | **98.50%** | **98.50%** | **98.50%** | 🏆 **Production Choice** |
+| 🌳 Decision Tree Classifier | 98.54% | 98.10% | 98.20% | 98.15% | Baseline |
+| 📍 K-Nearest Neighbors (KNN) | 83.41% | 83.20% | 83.00% | 83.10% | Evaluated |
+| 📈 Logistic Regression | 79.51% | 80.10% | 79.40% | 79.75% | Evaluated |
+
+> **Selected Model**: The ensemble **Random Forest Classifier** was serialized with `joblib` into [`model/best_heart_disease_model.pkl`](model/best_heart_disease_model.pkl) along with the pre-fitted feature scaler [`model/scaler.pkl`](model/scaler.pkl) for instantaneous inference.
+
+---
+
+## 📋 13 Clinical Parameters Reference
+
+HeartIQ takes the 13 gold-standard physiological inputs established by the American College of Cardiology:
+
+| # | Code Name | Clinical Parameter | Normal Range / Categories | Diagnostic Significance |
+|---|:----------|:-------------------|:--------------------------|:------------------------|
+| 1 | `age` | Patient Age | 18 – 100 years | Risk multiplies with vascular age |
+| 2 | `sex` | Biological Sex | `0` = Female, `1` = Male | Statistical risk variation across genders |
+| 3 | `cp` | Chest Pain Type | `0`: Typical Angina<br/>`1`: Atypical Angina<br/>`2`: Non-anginal Pain<br/>`3`: Asymptomatic | Primary indicator of ischemic distress |
+| 4 | `trestbps`| Resting Blood Pressure | 90 – 120 mmHg | Chronic hypertension accelerates arterial damage |
+| 5 | `chol` | Serum Cholesterol | < 200 mg/dl | Plaque build-up in coronary arteries |
+| 6 | `fbs` | Fasting Blood Sugar | `0`: ≤ 120 mg/dl<br/>`1`: > 120 mg/dl | Microvascular risk indicator (Diabetic marker) |
+| 7 | `restecg` | Resting ECG Results | `0`: Normal<br/>`1`: ST-T Wave Abnormality<br/>`2`: Left Ventricular Hypertrophy | Electrical conduction anomalies |
+| 8 | `thalach` | Max Heart Rate Achieved | 60 – 200 bpm | Chronotropic response under stress testing |
+| 9 | `exang` | Exercise Induced Angina | `0` = No, `1` = Yes | Hallmark sign of inducible myocardial ischemia |
+| 10 | `oldpeak` | ST Depression | 0.0 – 6.2 mm | Exercise-induced relative to rest (key ECG marker) |
+| 11 | `slope` | Slope of Peak Exercise ST | `0`: Upsloping<br/>`1`: Flat<br/>`2`: Downsloping | Downsloping correlates strongly with severe CAD |
+| 12 | `ca` | Number of Major Vessels | `0` – `3` | Number of vessels colored by fluoroscopy |
+| 13 | `thal` | Thallium Scintigraphy | `1`: Normal<br/>`2`: Fixed Defect<br/>`3`: Reversible Defect | Perfusion defect during nuclear cardiac stress scan |
+
+---
+
+## 🤖 CardioBot — AI Medical Assistant
+
+**CardioBot** provides an integrated natural-language interface that empowers users and practitioners to interpret complex cardiology concepts interactively.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/main/assets/heart_logo.png" width="80" alt="CardioBot Logo"/><br/>
+  <b>CardioBot In-App Dialogue Example</b>
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 🧑 User: "My cholesterol is 275 mg/dL and ST depression is 2.1. What does   │
+│           that mean?"                                                       │
+│                                                                             │
+│ 🤖 CardioBot:                                                               │
+│    "A total cholesterol of 275 mg/dL is categorized as significantly         │
+│    elevated (desirable is < 200 mg/dL), which accelerates atheroma          │
+│    formation in coronary walls.                                             │
+│                                                                             │
+│    An ST depression of 2.1 mm during stress testing is clinically           │
+│    indicative of subendocardial myocardial ischemia (restricted oxygen to   │
+│    cardiac tissue).                                                         │
+│                                                                             │
+│    ⚠️ Recommendation: Schedule an immediate follow-up with your cardiologist │
+│    for a confirmatory coronary angiogram and comprehensive lipid management."│
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Visual Analytics & Dashboards
+
+HeartIQ delivers interactive data visualization built with **Plotly.js**:
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ 🫀 HEART-IQ CLINICAL DASHBOARD                     [Dr. Bhardwaj] [Logout]    │
+├────────────────────────────────┬──────────────────────────────────────────────┤
+│ 🩺 CLINICAL INPUT FORM         │ 📊 REAL-TIME BIOMETRIC RADAR                 │
+│                                │                                              │
+│ Age:            [  58  ] yrs   │                    BP (145)                  │
+│ Sex:            (•) Male ( ) Fe│                       ●                      │
+│ Chest Pain:     [ Type 3: Asym]│                     /   \                    │
+│ Resting BP:     [  145 ] mmHg  │           Chol    /       \  HR              │
+│ Cholesterol:    [  280 ] mg/dL │          (280)  ●           ● (148)          │
+│ Max Heart Rate: [  148 ] bpm   │                  \         /                 │
+│ ST Depression:  [  2.3 ] mm    │                    ● ─── ●                   │
+│                                │                 Oldpeak   FBS                │
+│ [ 🚀 Run AI Prediction ]       │                  (2.3)                       │
+├────────────────────────────────┴──────────────────────────────────────────────┤
+│ 🎯 PREDICTION RESULT: ⚠️ HIGH RISK OF CARDIAC DISEASE (87.4% Probability)      │
+│                                                                               │
+│ 📌 Top Contributing Factors:                                                  │
+│    1. Elevated ST Depression (2.3 mm) ── [Severe Deviation]                   │
+│    2. Fluoroscopy Vessels (2 detected) ── [Coronary Occlusion Suspected]      │
+│    3. Elevated Serum Cholesterol (280 mg/dL) ── [Dyslipidemia]               │
+│                                                                               │
+│ [ 💾 Save to Patient EMR ]    [ 🖨️ Export PDF Clinical Report ]  [ 🤖 Ask AI ] │
+└───────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -157,445 +274,310 @@ Beyond simple predictions, HeartIQ is a **complete healthcare analytics suite**:
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "background":         "#0f0c29",
-    "primaryColor":       "#302b63",
-    "primaryTextColor":   "#f953c6",
-    "primaryBorderColor": "#b91d73",
-    "lineColor":          "#f953c6",
-    "secondaryColor":     "#24243e",
-    "tertiaryColor":      "#1a1833",
+    "background":         "#0b091a",
+    "primaryColor":       "#1a153a",
+    "primaryTextColor":   "#ff4081",
+    "primaryBorderColor": "#ff4081",
+    "lineColor":          "#00e5ff",
+    "secondaryColor":     "#221c4b",
+    "tertiaryColor":      "#120e28",
     "fontFamily":         "Outfit, sans-serif"
   }
 }}%%
 flowchart TD
-    A["👤 User / Doctor / Admin"] --> B["🔐 React Frontend\nLogin · Register · OTP Reset"]
-    B --> C{"FastAPI Backend"}
-    C -->|admin| D["⚙️ Admin Panel\nUser Management"]
-    C -->|doctor/user| E["🏠 Main Dashboard"]
-    E --> F["🩺 Prediction API\n13 Clinical Inputs"]
-    F --> G["📦 best_heart_disease_model.pkl\nRandom Forest Model"]
-    G --> H{"Risk Score"}
-    H -->|High Risk 🔴| I["⚠️ High Risk Alert\n+ Risk Factor Explanation"]
-    H -->|Low Risk 🟢| J["✅ Low Risk Result\n+ Preventive Tips"]
-    I --> K["📊 Plotly Charts\nRadar + Bar Graphs"]
-    J --> K
-    K --> L["💾 Save to patients.json\nPatient Record DB"]
-    K --> M["🖨️ PDF Report\nCSS Media Print"]
-    E --> N["🤖 CardioBot\nGenerative AI API"]
-    E --> O["📁 Patient History\nCRUD View"]
+    User["👤 Clinician / Doctor / Patient"] --> UI["🌐 React 19 Frontend (Vite)\nGlassmorphic UI · Plotly Charts · Print CSS"]
+    
+    subgraph Frontend ["Client Tier"]
+        UI --> AuthView["🔐 Auth & OTP Reset"]
+        UI --> PredictView["🩺 Prediction Engine"]
+        UI --> HistoryView["📂 Patient Records EMR"]
+        UI --> BotView["🤖 CardioBot Chat"]
+        UI --> AdminView["⚙️ Admin Control Center"]
+    end
+
+    UI <-->|"HTTP / REST (JSON)"| API["⚡ FastAPI Application (Python 3.11)\nUvicorn ASGI Server · CORS Enabled"]
+
+    subgraph Backend ["Server & Intelligence Tier"]
+        API --> ModelEngine["🧠 ML Inference Engine\nRandom Forest (Scikit-Learn)"]
+        ModelEngine --> Scaler["📦 scaler.pkl\nZ-Score Normalization"]
+        ModelEngine --> Classifier["🌲 best_heart_disease_model.pkl\nEnsemble Predictor"]
+        
+        API --> GenAI["🤖 LLM Provider\nGoogle Gemini / Groq API"]
+        API --> EmailService["📧 SMTP / SSL Handler\nGmail OTP 5-Min Expiry"]
+    end
+
+    subgraph Storage ["Data Persistence Tier"]
+        API <--> PatientsDB[("👤 patients.json\nClinical Records")]
+        API <--> UsersDB[("🔑 users.json\nRBAC Accounts")]
+        ModelEngine <--> RawData[("📊 heart_disease_data.csv\nCleveland Dataset")]
+    end
 ```
 
 ---
 
-## 🧠 Machine Learning Pipeline
-
-### Training Notebook (`model.ipynb`)
-
-The full ML lifecycle is documented in the Jupyter Notebook:
+## 🗂️ Project Directory Structure
 
 ```
-1. Data Collection        → Cleveland Heart Disease Dataset (UCI)
-2. Exploratory Data Analysis → Correlation heatmaps, feature distributions
-3. Data Preprocessing     → Normalization, encoding, train/test split (80/20)
-4. Feature Engineering    → 13 key cardiovascular indicators selected
-5. Model Training         → Evaluated Logistic Regression, KNN, Decision Tree, Random Forest
-6. Evaluation             → Accuracy, Precision, Recall, F1-Score
-7. Model Serialization    → joblib.dump() → best_heart_disease_model.pkl & scaler.pkl
-8. Deployment             → Loaded at runtime via joblib.load()
-```
-
-### 📋 Input Features (13 Clinical Parameters)
-
-| # | Feature | Description | Type |
-|---|---------|-------------|------|
-| 1 | **Age** | Patient age in years | Numeric |
-| 2 | **Sex** | Biological sex (0=Female, 1=Male) | Binary |
-| 3 | **Chest Pain Type** | 4 categories: typical/atypical angina, non-anginal, asymptomatic | Categorical |
-| 4 | **Resting Blood Pressure** | mmHg on admission | Numeric |
-| 5 | **Serum Cholesterol** | mg/dl | Numeric |
-| 6 | **Fasting Blood Sugar** | > 120 mg/dl = 1, else 0 | Binary |
-| 7 | **Resting ECG Results** | 0=Normal, 1=ST-T abnormality, 2=LV hypertrophy | Categorical |
-| 8 | **Max Heart Rate Achieved** | Beats per minute | Numeric |
-| 9 | **Exercise Induced Angina** | 1=Yes, 0=No | Binary |
-| 10 | **ST Depression** | Induced by exercise relative to rest | Numeric |
-| 11 | **Slope of ST Segment** | 0=Upsloping, 1=Flat, 2=Downsloping | Categorical |
-| 12 | **Major Vessels (0–3)** | Fluoroscopically colored vessels | Numeric |
-| 13 | **Thal** | 1=Normal, 2=Fixed defect, 3=Reversible defect | Categorical |
-
-### 🎯 Output
-```
-Prediction: HIGH RISK ❤️‍🔥  →  Probability Score + Risk Factor Analysis
-Prediction: LOW RISK  ✅     →  Healthy Indicators + Preventive Recommendations
-```
-
----
-
-## 🔐 Authentication System
-
-HeartIQ features a multi-tier authentication system:
-
-```
-┌───────────────────────────────────────────────────────┐
-│               AUTHENTICATION FLOW                      │
-│                                                        │
-│  ┌──────────┐    ┌──────────────┐    ┌─────────────┐  │
-│  │  Sign In  │    │ Create Acct  │    │ Forgot Pwd  │  │
-│  └────┬─────┘    └──────┬───────┘    └──────┬──────┘  │
-│       │                 │                    │          │
-│  Username +        Register new          Enter email   │
-│  Password          user (user role)      → OTP via     │
-│  validation        stored in              SMTP/SSL     │
-│       │           users.json              Gmail        │
-│       ▼                 │            (5-min expiry)    │
-│  ┌─────────┐            │                    │          │
-│  │  Role   │            │              Verify OTP →   │
-│  │ Check   │            │              Reset Pwd       │
-│  └────┬────┘            │                              │
-│  admin│doctor│user      │                              │
-│       ▼                 ▼                              │
-│   Dashboard        Dashboard                           │
-└───────────────────────────────────────────────────────┘
-```
-
-## 🤖 CardioBot — AI Health Companion
-
-CardioBot is an **embedded conversational AI**, designed to provide instant, context-aware cardiac health guidance within the app.
-
-```
-User: "My cholesterol is 260 mg/dl. Should I be worried?"
-
-CardioBot: "A cholesterol level of 260 mg/dl is considered 
-            high (desirable is below 200 mg/dl). This increases 
-            your risk of cardiovascular disease. I'd recommend 
-            consulting your cardiologist for a lipid panel and 
-            discussing dietary changes and possible medication..."
-```
-
-### CardioBot Capabilities
-- 💬 Natural language Q&A about heart health metrics
-- 🩺 Explains prediction results in plain English
-- 💊 Medication & lifestyle guidance (non-prescriptive)
-- 📖 References clinical definitions for each input parameter
-- 🚨 Flags urgent symptoms requiring immediate medical attention
-
----
-
-## 📊 Dashboard & Visualizations
-
-The interactive analytics dashboard includes:
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  ❤️ HEART-IQ                              [Nav Bar]      │
-│  Predict | History | About | CardioBot                   │
-├────────────────────────┬────────────────────────────────┤
-│                        │                                 │
-│   🩺 PREDICTION        │  📊 RISK ANALYSIS               │
-│                        │                                 │
-│  Age:        [  58   ] │  ┌──── Radar Chart ────┐       │
-│  Sex:        [  Male ] │  │  BP ●   Chol ●      │       │
-│  Chest Pain: [   3   ] │  │    ╲   ╱            │       │
-│  ...                   │  │     ╲ ╱             │       │
-│                        │  │      ●              │       │
-│  [🔍 Predict Risk]     │  └─────────────────────┘       │
-│                        │                                 │
-│  ┌── RESULT ─────────┐ │  ┌── TOP RISK FACTORS ──┐     │
-│  │  ⚠️ HIGH RISK     │ │  │  1. ST Depression    │     │
-│  │  Score: 87%       │ │  │  2. Chest Pain Type  │     │
-│  └───────────────────┘ │  │  3. Max Heart Rate   │     │
-│                        │  └──────────────────────┘     │
-└────────────────────────┴────────────────────────────────┘
-```
-
-### Chart Types
-| Chart | Purpose |
-|-------|---------|
-| 📡 **Radar Chart** | Multi-dimensional risk factor visualization |
-| 📊 **Bar Graph** | Feature contribution to prediction score |
-| 📈 **Trend Lines** | Historical patient risk over time |
-| 🎯 **Gauge Meter** | Real-time risk percentage display |
-
----
-
-## 📋 Patient Database Management
-
-The built-in patient record system provides full CRUD functionality:
-
-```json
-{
-  "name": "John Doe",
-  "age": 58, "sex": "Male",
-  "result": "HIGH",
-  "risk_pct": 87,
-  "date": "2024-06-15 14:32:11",
-  "saved_by": "doctor",
-  "inputs": {
-      "cp": 3, "trestbps": 145, "chol": 280, 
-      "fbs": 1, "restecg": 0, "thalach": 148, 
-      "exang": 0, "oldpeak": 2.3, "slope": 0, 
-      "ca": 0, "thal": 2
-  }
-}
-```
-
-**Features:**
-- 💾 Auto-save predictions to patient history
-- 🔎 Search patients by name or ID
-- 📋 One-click load of past records into prediction form
-- 🖨️ Generate PDF reports for any saved record
-- 🗑️ Admin-only: delete patient records
-
----
-
-## 🖨️ PDF Report Generation
-
-HeartIQ generates professional, print-ready clinical reports directly from the browser window using CSS print media queries.
-
-```
-┌─────────────────────────────────────────────────────┐
-│               ❤️  HEART-IQ REPORT                    │
-│          Generated: June 15, 2024 — 14:32            │
-│─────────────────────────────────────────────────────│
-│  Patient: John Doe         Age: 58       Sex: Male  │
-│─────────────────────────────────────────────────────│
-│  CLINICAL PARAMETERS                                 │
-│  • Blood Pressure: 145 mmHg (Elevated)              │
-│  • Cholesterol:    280 mg/dl (High)                 │
-│  • Max Heart Rate: 148 bpm                          │
-│  • ST Depression:  2.3 (Significant)                │
-│─────────────────────────────────────────────────────│
-│  ⚠️  PREDICTION: HIGH RISK (87% Probability)         │
-│─────────────────────────────────────────────────────│
-│  TOP RISK FACTORS                                    │
-│  1. High ST Depression (2.3)                        │
-│  2. Asymptomatic Chest Pain (Type 3)                │
-│  3. Elevated Cholesterol (280 mg/dl)                │
-│─────────────────────────────────────────────────────│
-│  * This report is for clinical reference only.       │
-│    Consult a qualified cardiologist.                 │
-└─────────────────────────────────────────────────────┘
+📦 Heart_IQ_AI-powered_cardiac_health-_intelligence/
+│
+├── 📁 assets/                     ← Project graphics, icons and logos
+│   └── 🖼️ heart_logo.png          ← Main HeartIQ branding asset
+│
+├── 📁 backend/                    ← FastAPI Python REST API Server
+│   ├── 🐍 api.py                  ← REST endpoints (/predict, /cardiobot, /patients, /auth)
+│   ├── 🐍 config.py               ← Environment variable loader & settings
+│   └── 🐍 helpers.py              ← Model loader, prediction logic & OTP dispatchers
+│
+├── 📁 frontend/                   ← Modern React 19 + Vite Web Application
+│   ├── 📁 public/                 ← Static favicons and SVG icons
+│   ├── 📁 src/
+│   │   ├── 📁 assets/             ← Hero illustrations and vector badges
+│   │   ├── 📁 views/
+│   │   │   ├── ⚛️ Admin.jsx       ← System admin console & user management
+│   │   │   ├── ⚛️ Dashboard.jsx   ← Primary navigation hub & triage metrics
+│   │   │   ├── ⚛️ Login.jsx       ← Multi-role sign-in & SMTP OTP recovery modal
+│   │   │   ├── ⚛️ Patients.jsx    ← EMR search, historical timeline & record loader
+│   │   │   └── ⚛️ Predict.jsx     ← 13-feature input form, Plotly radar & PDF exporter
+│   │   ├── 🎨 App.css             ← Glassmorphism cards, buttons & animation keyframes
+│   │   ├── ⚛️ App.jsx             ← Primary view router and session manager
+│   │   ├── 🎨 index.css           ← Root theme variables, gradients & font imports
+│   │   └── ⚛️ main.jsx            ← React virtual DOM entry point
+│   ├── 📄 package.json            ← Node dependencies & scripts
+│   └── ⚡ vite.config.js          ← Vite bundling configuration
+│
+├── 📁 model/                      ← Machine Learning Assets & Pipeline
+│   ├── 📦 best_heart_disease_model.pkl ← Serialized 98.54% Random Forest Model
+│   ├── 📦 scaler.pkl              ← Fitted StandardScaler transformation matrix
+│   ├── 📊 heart_disease_data.csv  ← Cleveland Heart Disease Training Dataset
+│   ├── 📓 train_model.ipynb       ← Jupyter Notebook with exploratory data analysis
+│   └── 🐍 train_models.py         ← Standalone model training & evaluation script
+│
+├── 📁 data/                       ← Local JSON Persistence Engine
+│   ├── 👤 patients.json           ← Active patient diagnostic records
+│   └── 🔑 users.json              ← User credentials & role profiles
+│
+├── 📋 requirements.txt            ← Python dependencies (FastAPI, scikit-learn, etc.)
+├── 📜 LICENSE                     ← MIT Open Source License
+└── 📄 README.md                   ← Master project documentation
 ```
 
 ---
 
-## 📦 Dataset Information
+## 🔐 Role-Based Access Control (RBAC)
 
-| Property | Detail |
-|----------|--------|
-| 📁 **File** | `heart_disease_data.csv` |
-| 🏛️ **Source** | Cleveland Heart Disease Dataset (UCI ML Repository) |
-| 📏 **Size** | ~900 patient records, 14 attributes |
-| 🎯 **Target** | Binary classification (0=No Disease, 1=Disease) |
-| ⚖️ **Balance** | ~45% positive (disease), ~55% negative (healthy) |
-| 🗓️ **Origin** | Robert Detrano, M.D., Ph.D. — Cleveland Clinic Foundation |
+HeartIQ implements three specialized access tiers:
+
+| Role | Privileges | Target User |
+|:-----|:-----------|:------------|
+| 👑 **`admin`** | Full user management, delete patient records, audit logs, model metrics | Clinic IT, System Administrators |
+| 🩺 **`doctor`** | Run predictions, save & retrieve all patient files, generate PDFs, chat with CardioBot | Cardiologists, General Practitioners, Nurses |
+| 👤 **`user`** | Self-prediction, personal result review, CardioBot cardiac education | Individual Patients, Wellness Seekers |
 
 ---
 
-## 🚦 Quick Start
+## 🖨️ Clinical PDF Diagnostic Export
 
-### Prerequisites
+HeartIQ incorporates custom `@media print` stylesheets that convert the interactive web dashboard into a formal, HIPAA/clinical-ready paper document:
 
-```bash
-Node.js 18+ (for frontend)
-Python 3.9+ (for backend)
+```
++─────────────────────────────────────────────────────────────+
+|                    🫀 HEART-IQ CLINICAL REPORT               |
+|            Confidential Patient Diagnostic Summary          |
+|─────────────────────────────────────────────────────────────|
+| Patient Name: Sarah Jenkins          Date: 2026-09-26 14:10 |
+| Age: 61 yrs   |  Sex: Female  |  Saved By: Dr. S. Bhardwaj  |
+|─────────────────────────────────────────────────────────────|
+| PHYSIOLOGICAL MEASUREMENTS                                  |
+| • Resting BP:        152 mmHg (Stage 2 Hypertension)        |
+| • Serum Cholesterol: 295 mg/dL (High / Dyslipidemia)        |
+| • Max Heart Rate:    132 bpm                                |
+| • ST Depression:     2.6 mm (Significant Subendocardial)    |
+| • Major Vessels:     2 Fluoroscopy Calcifications           |
+|─────────────────────────────────────────────────────────────|
+| DIAGNOSTIC OUTCOME: ⚠️ HIGH RISK FOR CORONARY HEART DISEASE |
+| Estimated Probability Score: 91.2%                          |
+|─────────────────────────────────────────────────────────────|
+| PRIMARY PATHOLOGICAL CONTRIBUTORS:                          |
+| 1. Significant ST Segment Depression (> 2.0 mm)             |
+| 2. Multi-Vessel Fluoroscopy Calcification                   |
+| 3. Severe Hypercholesterolemia                              |
+|─────────────────────────────────────────────────────────────|
+| * Generated via HeartIQ AI Clinical Support System.         |
+|   Requires verification by a board-certified physician.    |
++─────────────────────────────────────────────────────────────+
 ```
 
-### 1. Clone the Repository
+---
+
+## 🚦 Quick Start & Installation
+
+### 💻 Prerequisites
+- **Python**: `3.9` or higher
+- **Node.js**: `18.0` or higher
+- **Git**
+
+---
+
+### Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence.git
 cd Heart_IQ_AI-powered_cardiac_health-_intelligence
 ```
 
-### 2. Configure Environment Variables
+---
 
-Create a `.env` file in the root of the project with the following properties:
+### Step 2: Configure Environment Variables
+
+Create a `.env` file in the root folder:
 
 ```env
+# Optional: SMTP Configuration for Password Reset OTP
 SMTP_SENDER_EMAIL=your_email@gmail.com
-SMTP_SENDER_PASSWORD=your_app_password
-GROQ_API_KEY=your_api_key
+SMTP_SENDER_PASSWORD=your_gmail_app_password
+
+# Optional: LLM Configuration for CardioBot AI
+GROQ_API_KEY=your_groq_api_key_or_gemini_key
 ```
 
-### 3. Backend Setup (FastAPI)
+> 💡 *Note: The core prediction engine works fully offline even without `.env` configured!*
+
+---
+
+### Step 3: Setup & Run FastAPI Backend
 
 ```bash
-# Create and activate virtual environment (optional but recommended)
+# 1. Create a virtual environment
 python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
+
+# 2. Activate virtual environment
+# Windows (PowerShell):
+.\venv\Scripts\Activate.ps1
+# macOS / Linux:
 # source venv/bin/activate
 
-# Install dependencies
+# 3. Install required Python packages
 pip install -r requirements.txt
 
-# Run the API server
-python -m uvicorn backend.api:app --host 127.0.0.1 --port 8000
+# 4. Start the FastAPI backend server
+python -m uvicorn backend.api:app --host 127.0.0.1 --port 8000 --reload
 ```
-> The API will now be running at `http://localhost:8000`.
 
-### 4. Frontend Setup (React + Vite)
+> 🚀 **API Documentation**: Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for the interactive Swagger UI.
 
-Open a new terminal window:
+---
+
+### Step 4: Setup & Run React Frontend
+
+Open a **second terminal** window:
 
 ```bash
+# 1. Navigate to frontend directory
 cd frontend
 
-# Install Node dependencies
+# 2. Install Node dependencies
 npm install
 
-# Start the Vite development server
+# 3. Launch Vite development server
 npm run dev
 ```
-> The web application will now be running at `http://localhost:5173`. 
-> Default login — **Username:** `demo` | **Password:** `demo`
+
+> 🌐 **Application Ready**: Open [http://localhost:5173](http://localhost:5173) in your browser!
+
+#### Default Credentials:
+| Role | Username | Password |
+|:-----|:---------|:---------|
+| 🩺 Doctor | `demo` | `demo` |
+| 👑 Admin | `admin` | `admin` |
 
 ---
 
-## ☁️ Deployment
+## 🔌 REST API Documentation
 
-Deploying HeartIQ is simple using modern cloud platforms:
-
-1. **Backend (Render / Railway)**: Deploy the root folder as a Python web service running the command `uvicorn backend.api:app --host 0.0.0.0 --port $PORT`. Make sure to add your `.env` variables to the dashboard.
-2. **Frontend (Vercel / Netlify)**: Deploy the `frontend` folder as a standard Vite application using the build command `npm run build`. Add `VITE_API_URL` to your Vercel environment variables pointing to your new Render backend URL!
-
-🌐 **Live App Demo:** [https://heartiqai.vercel.app/](https://heartiqai.vercel.app/)
-
----
-
-## 🔬 Model Performance
-
-During the model evaluation phase, multiple algorithms were tested on the dataset. The **Random Forest** classifier achieved the highest predictive performance.
-
-| Algorithm | Accuracy |
-|-----------|----------|
-| **Random Forest** | **98.54%** |
-| Decision Tree | 98.54% |
-| K-Nearest Neighbors (KNN) | 83.41% |
-| Logistic Regression | 79.51% |
-
-### Best Model Metrics (Random Forest)
-| Metric | Score |
-|--------|-------|
-| ✅ **Accuracy** | 98.54% |
-| 🎯 **Precision** | 98.50% |
-| 📡 **Recall** | 98.50% |
-| 🏆 **F1 Score** | 98.50% |
-
-> 📓 Full evaluation metrics and code are available in [`model/train_models.py`](model/train_models.py) and [`model/train_model.ipynb`](model/train_model.ipynb).
+| Method | Endpoint | Description | Request Body Payload |
+|:------:|:---------|:------------|:---------------------|
+| `POST` | `/predict` | Predict cardiac risk from 13 parameters | `{"age": 58, "sex": 1, "cp": 3, "trestbps": 145, ...}` |
+| `POST` | `/cardiobot` | Conversational medical Q&A | `{"message": "What does a high ST depression mean?"}` |
+| `GET` | `/patients` | Fetch all historical patient records | *None* |
+| `POST` | `/patients` | Save a new patient diagnostic record | `{"name": "Jane", "age": 45, "result": "LOW", ...}` |
+| `DELETE`| `/patients/{id}` | Remove a patient record (Admin only) | *None* |
+| `POST` | `/auth/login` | Authenticate user credentials & role | `{"username": "demo", "password": "demo"}` |
+| `POST` | `/auth/forgot-password` | Dispatch 6-digit OTP to user email | `{"email": "user@example.com"}` |
+| `POST` | `/auth/reset-password` | Reset password using verified OTP | `{"email": "...", "otp": "123456", "new_password": "..."}` |
 
 ---
 
 ## 🗺️ Project Roadmap
 
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#302b63", "primaryTextColor": "#f953c6", "lineColor": "#b91d73"}}}%%
-gantt
-    title HeartIQ Development Roadmap
-    dateFormat YYYY-MM
-    section Core Features
-    ML Model Training & EDA        :done,    2024-01, 2M
-    React UI (Dark Theme)          :done,    2024-02, 2M
-    Auth System + OTP Recovery     :done,    2024-03, 1M
-    Patient Database (JSON)        :done,    2024-03, 1M
-    CardioBot (AI)                 :done,    2024-04, 1M
-    PDF Report Generation          :done,    2024-04, 1M
-    section Enhancements
-    PostgreSQL Migration           :active,  2024-06, 3M
-    DICOM Image Analysis           :         2024-08, 4M
-    Mobile PWA Version             :         2024-09, 3M
-    section Future
-    Real-time ECG Integration      :         2025-01, 6M
-    Hospital System API            :         2025-03, 4M
-```
+- [x] 🌲 **High-Accuracy ML Model**: Random Forest model achieved 98.54% accuracy.
+- [x] ⚡ **FastAPI REST Backend**: Async prediction endpoint with instant inference.
+- [x] 🎨 **React 19 + Glassmorphism UI**: Polished clinical interface with Plotly analytics.
+- [x] 🔐 **Role-Based Auth & OTP**: 3-role access model with Gmail SMTP OTP recovery.
+- [x] 🖨️ **Printable PDF Diagnostics**: One-click browser media print styling.
+- [ ] 🗄️ **Database Migration**: Optional migration from JSON to SQLite / PostgreSQL.
+- [ ] 📱 **Mobile PWA Support**: Progressive web app for tablets and bedside clinical rounds.
+- [ ] 📡 **Wearable ECG Integration**: Real-time smartwatch and telemetry data ingestion.
+- [ ] 🐳 **Dockerization**: Complete `docker-compose` setup for one-command deployment.
 
 ---
 
-## 🤝 Contributing
+## 👩‍💻 Author & Developer
 
-Contributions make open source amazing! Here's how:
+<div align="center">
 
-```bash
-# 1. Fork the repository
+<img src="https://github.com/Sanskriti-Bhardwaj.png" width="130" style="border-radius: 50%; border: 3px solid #ff4081;" alt="Sanskriti Bhardwaj Profile"/>
 
-# 2. Create your feature branch
-git checkout -b feature/YourFeatureName
+### **Sanskriti Bhardwaj**
+*B.Tech Computer Science & Engineering '26*  
+*QA Engineer · Full-Stack & Machine Learning Developer*
 
-# 3. Make your changes and commit
-git add .
-git commit -m "✨ Add: YourFeatureName"
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanskriti-Bhardwaj)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Sanskriti-Bhardwaj)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajsanskriti6@gmail.com)
 
-# 4. Push to GitHub
-git push origin feature/YourFeatureName
+*"Bridging intelligent machine learning algorithms with seamless, life-saving software engineering."*
 
-# 5. Open a Pull Request on GitHub 🎉
-```
-
-### 💡 Areas to Contribute
-- [ ] 🗄️ Replace JSON storage with SQLite / PostgreSQL
-- [ ] 📱 Responsive mobile layout
-- [ ] 🌍 Multi-language support (Hindi, regional languages)
-- [ ] 🧬 Add more ML models (XGBoost, LightGBM comparison)
-- [ ] 📡 Real-time ECG data integration (wearables)
-- [ ] 🔒 JWT-based session tokens (replace session state)
-- [ ] 🧪 Unit tests with `pytest`
-- [ ] 🐳 Docker containerization
+</div>
 
 ---
 
-## 📜 License
+## 🤝 Contributing & Support
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
+Contributions, feedback, and feature suggestions are warmly welcomed!
+
+1. **Fork** the repository: [https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/fork](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/fork)
+2. **Create your feature branch**: `git checkout -b feature/AmazingCardiacFeature`
+3. **Commit your modifications**: `git commit -m 'feat: Add AmazingCardiacFeature'`
+4. **Push to branch**: `git push origin feature/AmazingCardiacFeature`
+5. **Submit a Pull Request** 🚀
+
+<div align="center">
+
+[![Star this repo](https://img.shields.io/badge/⭐_Star_This_Project-FFD700?style=for-the-badge&logo=github)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/stargazers)
+&nbsp;
+[![Fork this repo](https://img.shields.io/badge/🍴_Fork_Repository-ff4081?style=for-the-badge&logo=github)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/fork)
+
+</div>
 
 ---
 
 ## ⚠️ Medical Disclaimer
 
-> **HeartIQ is an academic project built for educational and research purposes only.**
-> It is NOT a certified medical device and should NOT be used as a substitute for professional medical diagnosis or treatment. Always consult a qualified cardiologist for cardiac health decisions.
-
----
-
-## 👩‍💻 Author
-
-<div align="center">
-
-### **Sanskriti Bhardwaj**
-*B.Tech CSE '26*
-*QA Engineer · ML & Web Development Enthusiast*
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhardwajsanskriti6@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanskriti-Bhardwaj)
-
-</div>
-
----
-
-## ⭐ Show Your Support
-
-If HeartIQ helped you or impressed you, please give it a star — it motivates further development!
-
-<div align="center">
-
-[![Star this repo](https://img.shields.io/badge/⭐_Star_HeartIQ-FFD700?style=for-the-badge)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/stargazers)
-&nbsp;
-[![Fork this repo](https://img.shields.io/badge/🍴_Fork_it-f953c6?style=for-the-badge)](https://github.com/Sanskriti-Bhardwaj/Heart_IQ_AI-powered_cardiac_health-_intelligence/fork)
-&nbsp;
-[![Try Live Demo](https://img.shields.io/badge/🌐_Try_Live_Demo-b91d73?style=for-the-badge)](https://heartiqai.vercel.app/)
-
-</div>
+> **IMPORTANT MEDICAL NOTICE**:  
+> **HeartIQ is designed strictly for academic, research, and educational demonstration purposes.**  
+> It does not constitute a medical device, clinical diagnostic instrument, or professional healthcare recommendation. Always seek the advice of a board-certified cardiologist or qualified physician with any questions regarding personal medical conditions or symptoms. Never disregard professional medical advice or delay seeking care because of software outputs.
 
 ---
 
 <!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,30:b91d73,60:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4081,30:d81b60,65:1a153a,100:0b091a&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-*Made with ❤️ & Python by [Sanskriti Bhardwaj](https://github.com/Sanskriti-Bhardwaj) · Capstone Project · © 2026*
+*Engineered with ❤️ & Python by [Sanskriti Bhardwaj](https://github.com/Sanskriti-Bhardwaj) · Final Year Capstone Project · © 2026*
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanskriti-Bhardwaj.Heart_IQ_AI-powered_cardiac_health-_intelligence&left_color=302b63&right_color=f953c6&left_text=Total+Visitors)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sanskriti-Bhardwaj.Heart_IQ_AI-powered_cardiac_health-_intelligence&left_color=1a153a&right_color=ff4081&left_text=Total+Visitors)
 
 </div>
